@@ -1,4 +1,4 @@
-# 👋 Yo, I'm Belal!
+#  I'm Belal!
 
 ### 💡 I like making things that are fun, useful, or just plain cool.
 
@@ -31,3 +31,5 @@ A cool visual sandbox where particles bounce, collide, and do their thing in pur
 - Old-school app recreations
 - Browser-based playgrounds
 - AI tools that talk, learn, and do cool things
+Made by chatgpt because am too lazy to do it by my self
+
